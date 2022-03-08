@@ -8,6 +8,8 @@ public class pruebecilla {
 		System.out.println("Hola");
 
 		System.out.println("Hola");
+		System.out.println("Hola");
+		System.out.println("Hola");
 
 
 	}
